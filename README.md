@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center"><img width="80%" src="./assets/gh-adinath-readme.png"/></p>
 
-<!--
-**adinath-nikam/adinath-nikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I ❤ Coding
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌏 - INDIA - KA
+
+❤️ - Front End With Flutter and Python
+
+🖥 - Currently in Bachelor of Engineering in Computer Science
+
+💬 - Ask me about anything [here](https://github.com/adinath-nikam/adinath-nikam/issues)
+
+##Languages
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
