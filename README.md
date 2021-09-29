@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./assets/gh-adinath-readme.png"/></p>
+<p align="center"><img width="50%" src="./assets/gh-adinath-readme1.png"/></p>
 
 I ❤ Coding
 
