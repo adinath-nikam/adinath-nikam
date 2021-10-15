@@ -9,7 +9,7 @@ I ❤ Coding
 
 ❤️ - Front End With Flutter and Python
 
-🖥 - Currently in Bachelor of Engineering in Computer Science
+🖥 - Computer Science
 
 💬 - Ask me about anything [here](https://github.com/adinath-nikam/adinath-nikam/issues)
 
