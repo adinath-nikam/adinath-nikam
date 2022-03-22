@@ -28,9 +28,7 @@ I ❤ Coding
 
 # Hackerrank
 
-<img width="40%" src="./assets/hackerrank_1.png"/>      <img width="40%" src="./assets/hackerrank_2.png"/>
-
-<img width="40%" src="./assets/hackerrank_3.png"/>
+<img width="40%" src="./assets/hackerrank_1.png"/> <img width="40%" src="./assets/hackerrank_2.png"/> <img width="40%" src="./assets/hackerrank_3.png"/>
 
 ## My Stats
 
