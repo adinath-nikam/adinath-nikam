@@ -28,18 +28,9 @@ I ❤ Coding
 
 # Hackerrank
 
-<div class="row">
-  <div class="column">
-    <img width="25%" src="./assets/hackerrank_1.png"/>
-  </div>
-  <div class="column">
-    <img width="25%" src="./assets/hackerrank_2.png"/>
-  </div>
-  <div class="column">
-    <img width="25%" src="./assets/hackerrank_3.png"/>
-  </div>
-</div>
+| <img width="25%" src="./assets/hackerrank_1.png"/> | <img width="25%" src="./assets/hackerrank_2.png"/> 
 
+<img width="25%" src="./assets/hackerrank_3.png"/>
 
 ## My Stats
 
