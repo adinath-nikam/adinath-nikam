@@ -20,6 +20,20 @@ I ❤ Coding
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+## Certifications
+
+# (Internship) Suven Consultants Pvt. Ltd.
+
+<img width="25%" src="./assets/suven_internship_certificate.png"/>
+
+# Hackerrank
+
+<img width="25%" src="./assets/hackerrank_1.png"/>
+
+<img width="25%" src="./assets/hackerrank_2.png"/>
+
+<img width="25%" src="./assets/hackerrank_3.png"/>
+
 
 ## My Stats
 
