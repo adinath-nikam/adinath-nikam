@@ -24,13 +24,11 @@ I ❤ Coding
 
 # (Internship) Suven Consultants Pvt. Ltd.
 
-<img width="25%" src="./assets/suven_internship_cetificate.png"/>
+<img width="50%" src="./assets/suven_internship_cetificate.png"/>
 
 # Hackerrank
 
-| <img width="25%" src="./assets/hackerrank_1.png"/> | <img width="25%" src="./assets/hackerrank_2.png"/> 
-
-<img width="25%" src="./assets/hackerrank_3.png"/>
+| <img width="50%" src="./assets/hackerrank_1.png"/> | <img width="50%" src="./assets/hackerrank_2.png"/> | <img width="50%" src="./assets/hackerrank_3.png"/>
 
 ## My Stats
 
