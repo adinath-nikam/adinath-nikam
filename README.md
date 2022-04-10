@@ -22,7 +22,9 @@ I ❤ Coding
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+
 
 ## Certifications
 
@@ -30,9 +32,11 @@ I ❤ Coding
 
 <img width="75%" src="./assets/suven_internship_cetificate.png"/>
 
+
 # Hackerrank
 
 <img width="30%" src="./assets/hackerrank_1.png"/> <img width="30%" src="./assets/hackerrank_2.png"/> <img width="30%" src="./assets/hackerrank_3.png"/>
+
 
 ## My Stats
 
