@@ -25,10 +25,10 @@ I ❤ Coding
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
-## My Stats
+<!-- ## My Stats
 
 | <a href="https://github.com/adinath-nikam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adinath's Github Rating" /></a> | <a href="https://github.com/adinath-nikam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinath-nikam&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
 
 
 ## Stats
