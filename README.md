@@ -25,19 +25,6 @@ I ❤ Coding
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
-
-## Certifications
-
-# (Internship) Suven Consultants Pvt. Ltd.
-
-<img width="75%" src="./assets/suven_internship_cetificate.png"/>
-
-
-# Hackerrank
-
-<img width="30%" src="./assets/hackerrank_1.png"/> <img width="30%" src="./assets/hackerrank_2.png"/> <img width="30%" src="./assets/hackerrank_3.png"/>
-
-
 ## My Stats
 
 | <a href="https://github.com/adinath-nikam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adinath's Github Rating" /></a> | <a href="https://github.com/adinath-nikam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinath-nikam&layout=compact&theme=buefy&hide_border=true" /></a> |
