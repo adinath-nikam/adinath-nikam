@@ -5,13 +5,13 @@ I ❤ Coding
 
 ## About Me
 
-🌏 - INDIA - KA
+🌏 = INDIA - KA
 
-❤️ - Front End With Flutter and Python
+❤️ = Android Studio + Flutter
 
-🖥 - Computer Science
+🖥 = Computer Science
 
-💬 - Ask me about anything [here](https://github.com/adinath-nikam/adinath-nikam/issues)
+💬 = Ask me anything [here](https://github.com/adinath-nikam/adinath-nikam/issues)
 
 
 ## Languages
