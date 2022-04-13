@@ -34,9 +34,9 @@ I ❤ Coding
 ## Stats
 
  ![Adinaths's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adinath-nikam&theme=react-dark&hide_border=true&area=true)
-| ![Adinath's github stats](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&theme=radical)             | ![Adinath GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adinath-nikam&theme=radical)                                                                                                           |
+| ![Adinath's github stats](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&theme=react-dark)             | ![Adinath GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adinath-nikam&theme=react-dark)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinath-nikam&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinath-nikam&langs_count=8&theme=react-dark&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=react-dark) |
 
 
 ### Regards
