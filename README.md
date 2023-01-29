@@ -25,6 +25,7 @@ I ❤ Coding
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 <!-- ## My Stats
 
@@ -34,7 +35,6 @@ I ❤ Coding
 
 ## Stats
 
- ![Adinaths's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adinath-nikam&theme=gotham&hide_border=true&area=true)
 | ![Adinath's github stats](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&theme=gotham)             | ![Adinath GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adinath-nikam&theme=gotham)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinath-nikam&langs_count=8&theme=gotham&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=gotham) |
