@@ -59,6 +59,14 @@ technical_background:
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinath-nikam&langs_count=8&theme=gotham&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=gotham) |
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/adinath-nikam/adinath-nikam/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 ### Regards
 
