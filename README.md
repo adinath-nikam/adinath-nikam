@@ -4,15 +4,38 @@ I ❤ Coding
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adinath-nikam&label=Profile%20views&color=0e75b6&style=flat" alt="adinath-nikam" /> </p>
 
-## About Me
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-🌏 = INDIA - KA
+```yaml
+name: Adinath A Nikam
+located_in: Belgaum, Karanataka, India
 
-❤️ = Android Studio + Flutter
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Science Engineering",
+  ]
+  
 
-🖥 = Computer Science
-
-💬 = Ask me anything [here](https://github.com/adinath-nikam/adinath-nikam/issues)
+fields_of_interests:
+  [
+    "Hybrid Mobile Application Design and Development",
+    "Data Engineering",
+    "Web Design and Development",
+    "UI/UX",
+    "Cloud Application Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Intern - Data Engineering at Nubax DataLabs",
+    "Intern - Web Design and Development",
+  ]
+  
+currently_learning: ["Docker, Kubernetes and React Native"]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
 
 
 ## Languages
