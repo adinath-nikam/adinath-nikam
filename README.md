@@ -1,6 +1,6 @@
 <p align="center"><img width="50%" src="./assets/gh-adinath-readme.png"/></p>
 
-I ❤ Coding
+👽 Extraterrestrial
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adinath-nikam&label=Profile%20views&color=0e75b6&style=flat" alt="adinath-nikam" /> </p>
 
