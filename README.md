@@ -59,6 +59,10 @@ technical_background:
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinath-nikam&langs_count=8&theme=gotham&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=adinath-nikam&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=gotham) |
 
+## Hackathons
+
+<p align="center"><img width="50%" src="./assets/SIH-Certificate.jpg"/></p>
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
