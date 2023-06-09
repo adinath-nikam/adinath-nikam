@@ -61,7 +61,7 @@ technical_background:
 
 ## Hackathons
 
-<p align="center"><img width="50%" src="./assets/SIH-Certificate.jpg"/></p>
+<p align="center"><img width="100%" src="./assets/SIH-Certificate.jpg"/></p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
