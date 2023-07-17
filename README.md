@@ -8,7 +8,7 @@
 
 ```yaml
 name: Adinath A Nikam
-located_in: Belgaum, Karanataka, India
+location: 127.0.0.1
 
 education:
   [
