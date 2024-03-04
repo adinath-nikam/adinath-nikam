@@ -10,28 +10,33 @@
 name: Adinath A Nikam
 location: 127.0.0.1
 
+"adinath_nikam": {
+
 education:
-  [
+[
     "Self-Taught Developer and Designer",
-    "Bachelor's in Computer Science Engineering",
-  ]
-  
+    "Bachelor's in Computer Science Engineering"
+],
+
 
 fields_of_interests:
-  [
+[
     "Hybrid Mobile Application Design and Development",
     "Data Engineering",
     "Web Design and Development",
     "UI/UX",
     "Cloud Application Development",
-    "DevOps",
-  ]
+    "DevOps"
+],
+
+
 technical_background:
-  [
+[
     "Intern - Data Engineering at Nubax DataLabs",
-    "Intern - Web Design and Development",
-  ]
-  
+    "Intern - Web Design and Development"
+]
+
+}
 ```
 
 
