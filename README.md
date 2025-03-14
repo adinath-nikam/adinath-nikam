@@ -32,8 +32,9 @@ fields_of_interests:
 
 technical_background:
 [
-    "Intern - Data Engineering at Nubax DataLabs",
-    "Intern - Web Design and Development"
+    "Software Engineer - Mobile Application Developer at Scientifc Games Corporation (August, 2023 - Present)",
+    "Intern - Data Engineering at Nubax DataLabs (April, 2022 - March, 2023)",
+    "Intern - Web Design and Development (March, 2022 - April, 2022)"
 ]
 
 }
